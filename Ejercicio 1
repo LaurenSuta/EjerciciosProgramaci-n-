@@ -1,0 +1,33 @@
+package ejerciciosprogramacion;
+
+public class EjerciciosProgramacion {
+
+    public static void main(String[] args) {
+
+        int numpc = 0;
+
+        if (numpc < 5) {
+
+            System out println("Se cumple el descuento del 10% sobre el total de la compra");
+
+        } else {
+            System out println("No se cumple el descuento del 10% sobre el total de la compra");
+
+        }
+        if (numpc > = 5 < 10) {
+
+            System out println("Se otorga un 20% de descuento");
+
+        } else {
+            System out println("No se le otorga un 20% de descuento");
+
+        }
+        if (numpc >= 10) {
+
+            System out println("Se les otorga un 40% de descuento");
+
+        } else {
+            System out println("No se les otorga el 40% de descuento");
+        }
+    }
+}
