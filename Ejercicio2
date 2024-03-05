@@ -1,0 +1,22 @@
+public static void main(String[] args) {
+
+        int numllan = 0;
+        int precio;
+
+        if (numllan < 5 = precio) {
+
+            System.out.println("El precio es de 100 cada llanta");
+    
+} else if (numllan <= 10 = precio) {
+
+            System.out.println("El precio es de 75 cada llanta");
+            
+            
+}else if (numllan > 10 = precio) {
+
+            System.out.println("El precio es de 10 cada llanta");
+        
+  
+} 
+}
+}
