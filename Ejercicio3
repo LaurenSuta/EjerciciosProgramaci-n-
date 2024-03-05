@@ -1,0 +1,19 @@
+    public static void main(String[] args) {
+
+        int precio = 0;
+        int iva = 19 %;
+        int ap = 0;
+        int NOPSY = 5%;
+
+        if (ap >= 500) {
+
+            System.out.println("Ofrece un 10% de descuento sobre el precio");
+
+        } else if (ap = NOPSY) {
+
+            System.out.println("Ofrece un 5% de descuento adicional");
+
+        }
+
+    }
+}
